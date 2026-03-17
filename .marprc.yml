@@ -1,0 +1,3 @@
+themeSet:
+  - ./docs/workshop_theme.css
+allowLocalFiles: true

@@ -47,16 +47,22 @@ Keep transitions brisk and signpost timing.
 - A **500-word reflective commentary**
 - **AutoViva transcript**
 
-## What success looks like
+## Assessment Breakdown
 
-- Clear message
-- Defined audience
-- Logical structure
-- Evidence-informed content
+- This assessment is worth **60%** of the module
+- **Digital artefact (video): 80%**
+- **Reflective commentary: 20%**
+- **Submission Deadline: Week 13 - 15th May**
+- [View Assessment Rubric](#)
+
+## Examples and Delivery
+
+- [YouTube Playlist](https://www.youtube.com/watch?v=8c5ZN7BseNA&list=PLsWFiDvzgp8pkn5Wcdt2dneW4u1DpGZEA)
+- Video must include a voiceover using your own voice
+- Background music is recommended: justify your choice and get the levels right
 
 <!--
-Emphasize that clarity and coherence drive marks.
-Mention that format polish alone does not.
+Emphasize weighting, examples, and delivery rules in one pass.
 -->
 
 ---
@@ -106,26 +112,6 @@ Ask students to name who they are speaking to in one sentence.
 
 <!-- _class: tight -->
 
-# Assessment 2: Digital Case Study
-
-- This assessment is worth **60%** of the module
-- **Digital artefact (video): 80%**
-- **Reflective commentary: 20%**
-- **Submission Deadline: Week 13 - 15th May**
-
-## Rubric
-
-- [View Assessment Rubric](#)
-
-<!--
-Pause briefly on assessment weighting and deadline.
-Tell students the rubric link will be shared in the final deck.
--->
-
----
-
-<!-- _class: tight -->
-
 # AI Use: What Is Allowed
 
 ## Allowed
@@ -139,6 +125,7 @@ Tell students the rubric link will be shared in the final deck.
 - Writing the reflection
 - Fake or shallow justification
 - Replacing understanding
+- Generated voiceovers or synthetic narration
 
 > Over-reliance on AI is obvious in reflection and AutoViva.
 
@@ -269,30 +256,4 @@ Keep this fast and practical.
 <!--
 Frame pitfalls as normal and fixable.
 Connect each issue back to audience and structure.
--->
-
----
-
-<!-- _class: final -->
-
-# Close and Prep Checklist
-
-## Recap
-
-- You do not need advanced tools
-- You do need:
-  - A clear audience
-  - A clear structure
-  - A clear message
-
-## Prep checklist
-
-- 1 example video ready
-- Slides for: assignment, AI rules, platforms, structure
-
-> If a non-expert can follow your message clearly, you are most of the way there.
-
-<!--
-End with confidence and a practical next action.
-Invite one final question before dismissing.
 -->

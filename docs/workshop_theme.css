@@ -77,7 +77,10 @@ small {
 }
 
 section.lead {
-  background: radial-gradient(circle at 0% 0%, #e6f2fb 0%, #f9fbff 48%, #f2f6fc 100%);
+  background:
+    url("./assets/image.png") top 20px right 26px / 122px auto no-repeat,
+    linear-gradient(90deg, #0f5e8a 0%, #4f8db3 45%, #8ab6d1 100%) top left / 100% 10px no-repeat,
+    radial-gradient(circle at 0% 0%, #e6f2fb 0%, #f9fbff 48%, #f2f6fc 100%);
 }
 
 section.lead h1 {
@@ -102,7 +105,10 @@ section.activity blockquote {
 }
 
 section.final {
-  background: linear-gradient(180deg, #f7fbff 0%, #edf4fb 100%);
+  background:
+    url("./assets/image.png") top 20px right 26px / 122px auto no-repeat,
+    linear-gradient(90deg, #0f5e8a 0%, #4f8db3 45%, #8ab6d1 100%) top left / 100% 10px no-repeat,
+    linear-gradient(180deg, #f7fbff 0%, #edf4fb 100%);
 }
 
 section.final h1 {
