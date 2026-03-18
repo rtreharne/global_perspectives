@@ -6,6 +6,42 @@ size: 16:9
 title: Creating Digital Case Studies
 description: 90-minute beginner workshop on creating clear digital case studies
 author: Dr. Robert Treharne
+style: |
+  section,
+  section.lead,
+  section.final {
+    background-size: 183px auto, 100% 10px, auto;
+  }
+  section.machina h2 {
+    margin-top: 0.2em;
+  }
+  section.machina .mav-grid {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+    gap: 0.8em;
+    align-items: start;
+  }
+  section.machina .mav-grid ul {
+    margin-top: 0.1em;
+  }
+  section.machina .mav-link {
+    display: inline-block;
+    margin-top: 0.1em;
+    font-weight: 700;
+    font-size: 0.95em;
+  }
+  section.machina .qr-box {
+    background: #ffffff;
+    border: 2px solid #c8d9e8;
+    border-radius: 10px;
+    padding: 0.25em;
+    text-align: center;
+  }
+  section.machina .qr-box p {
+    margin: 0.2em 0 0 0;
+    color: #3f5870;
+    font-size: 0.58em;
+  }
 ---
 
 <!-- _class: lead -->
@@ -16,24 +52,15 @@ author: Dr. Robert Treharne
 **Dr. Robert Treharne**  
 R.Treharne@liverpool.ac.uk
 
-<!--
-Keep this slide clean: title and presenter details only.
--->
-
 ---
 
 # Session Roadmap
 
 1. Example, assignment requirements, and assessment weighting
-2. AI guidance and platform choices
+2. AI guidance, MachinaViva, and platform choices
 3. 4-part structure for a strong case study
 4. Individual and pair activities
 5. Common pitfalls, recap, and checklist
-
-<!--
-Use this slide to orient students quickly.
-Keep transitions brisk and signpost timing.
--->
 
 ---
 
@@ -45,7 +72,7 @@ Keep transitions brisk and signpost timing.
 
 - A **3-minute digital case study**
 - A **500-word reflective commentary**
-- **AutoViva transcript**
+- **MachinaViva transcript**
 
 ## Assessment Breakdown
 
@@ -55,15 +82,39 @@ Keep transitions brisk and signpost timing.
 - **Submission Deadline: Week 13 - 15th May**
 - [View Assessment Rubric](#)
 
-## Examples and Delivery
+---
+
+<!-- _class: tight -->
+
+# Example Digital Case Studies
+
+## Watch and observe
 
 - [YouTube Playlist](https://www.youtube.com/watch?v=8c5ZN7BseNA&list=PLsWFiDvzgp8pkn5Wcdt2dneW4u1DpGZEA)
-- Video must include a voiceover using your own voice
-- Background music is recommended: justify your choice and get the levels right
 
-<!--
-Emphasize weighting, examples, and delivery rules in one pass.
--->
+## As you watch, think:
+
+- Who is the **target audience**?
+- What is the **main message**?
+- What makes it **clear or unclear**?
+
+> Focus on clarity, not production quality.
+
+---
+
+<!-- _class: tight -->
+
+# What is MachinaViva?
+
+- A **Socratic AI tool** used to test and verify your understanding  
+- You will be asked to **explain and justify your decisions**  
+- It helps demonstrate **authentic understanding and ownership**  
+
+## Why it matters
+
+- Your transcript must be included in your submission  
+- It supports your reflection and helps verify your work  
+- Weak understanding becomes obvious here  
 
 ---
 
@@ -78,11 +129,6 @@ Emphasize weighting, examples, and delivery rules in one pass.
 - Climate Change and Global Food Security
 - Sustainable Education Provision (Equity, Access, Continuity)
 - Artificial Intelligence for Sustainable Innovation
-
-<!--
-Ask students to choose one topic and commit before activity starts.
-Encourage specificity within each broad theme.
--->
 
 ---
 
@@ -103,11 +149,6 @@ Encourage specificity within each broad theme.
 
 > Your audience must be specific enough that you can picture a real person.
 
-<!--
-Push for one clearly defined audience, not broad groups.
-Ask students to name who they are speaking to in one sentence.
--->
-
 ---
 
 <!-- _class: tight -->
@@ -127,12 +168,7 @@ Ask students to name who they are speaking to in one sentence.
 - Replacing understanding
 - Generated voiceovers or synthetic narration
 
-> Over-reliance on AI is obvious in reflection and AutoViva.
-
-<!--
-State boundaries plainly and without ambiguity.
-Encourage AI as support, not substitution.
--->
+> Over-reliance on AI is obvious in reflection and MachinaViva.
 
 ---
 
@@ -150,11 +186,6 @@ Encourage AI as support, not substitution.
 
 **Don't subscribe!** Watermarks are fine, free versions are fine, no marks for polish alone.
 
-<!--
-Reduce tool anxiety here.
-Tell students to pick one familiar tool and start.
--->
-
 ---
 
 <!-- _class: tight -->
@@ -168,37 +199,28 @@ Tell students to pick one familiar tool and start.
 
 > Structure is your safety net.
 
-<!--
-This is the core teaching slide.
-Repeat that structure improves confidence and clarity.
--->
-
 ---
 
-<!-- _class: activity -->
+<!-- _class: tight -->
 
-# Mini Task (2-3 min)
+# Example: Hook and Takeaway
 
-## Example topic
+## Topic
 **Climate change and food security**
 
-## Quick prompt
+## Hook
+"By 2050, climate change could reduce global crop yields by up to 30% — putting millions at risk of food shortages."
 
-- What is your **hook**?
-- What is your **takeaway**?
+## Takeaway
+"What you eat matters: choosing sustainable food options can help reduce pressure on global food systems."
 
-> Keep it simple: one sentence each.
-
-<!--
-Give exactly 2-3 minutes.
-Ask for two volunteer examples before moving on.
--->
+> Clear, simple, and aimed at a non-expert audience.
 
 ---
 
 <!-- _class: activity tight -->
 
-# Individual Activity (50-70 min)
+# Individual Activity (10 - 12 min)
 
 Students work independently to:
 
@@ -210,16 +232,11 @@ Students work independently to:
 
 > Test: Could your audience understand this in one viewing?
 
-<!--
-Circulate and check audience specificity.
-Nudge students away from broad labels like "general public."
--->
-
 ---
 
 <!-- _class: activity tight -->
 
-# Pair Activity (5-7 min)
+# Pair Activity (5 min)
 
 Explain to a partner:
 
@@ -230,11 +247,7 @@ Explain to a partner:
 Partner asks:
 
 > "Would I understand this?"
-
-<!--
-Encourage partners to give one clarity suggestion each.
-Keep this fast and practical.
--->
+> "What considerations might you need to make for your audience?"
 
 ---
 
@@ -253,7 +266,33 @@ Keep this fast and practical.
 
 > Fix all three by defining audience + using the 4-part flow.
 
-<!--
-Frame pitfalls as normal and fixable.
-Connect each issue back to audience and structure.
--->
+---
+
+<!-- _class: final machina -->
+
+# MachinaViva Task
+
+<div class="mav-grid">
+<div>
+
+## What to do
+- Complete the example MachinaViva activity
+- Answer MCQs
+- Answer questions in your own words
+- Download your transcript
+- Use it to check your understanding of this assignment
+
+## Access
+<a class="mav-link" href="https://machinaviva.onrender.com/app/join/lRDptd1gz3z23ArvNcIZka1mXZW4PL-f/">Open MachinaViva</a>
+</div>
+<div class="qr-box">
+
+![w:230](./assets/machinaviva-qr.png)
+
+<p>Scan to open MachinaViva</p>
+</div>
+</div>
+
+> Once you've done this, you can go! Good Luck with your assignment!
+
+> Any questions? Contact me directly via Microsoft Teams chat (better than email).
